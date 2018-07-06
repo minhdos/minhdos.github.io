@@ -45,14 +45,3 @@
     line-height: 30%;
 }
 
-.round_picture{
-border-radius: 30%;
-z-index:+1;  
-position: absolute;
-top: 6.6%;
-right: 32%;
-width: 100px;
-height: 100px;
-display: block;
-}
-
