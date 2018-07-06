@@ -1,0 +1,58 @@
+.Pretty_title{
+    font-family: 'Galada', cursive;
+    font-size: 100px;
+  }
+
+.Pretty_headings{
+    font-family: 'Nunito', sans-serif;
+    font-size: 30px;
+}
+
+.Pretty_body{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 18px;
+    background-color: #fabdcd;
+    overflow: scroll;
+    margin: 4em auto;
+    max-width: 35em;
+}
+
+
+.media-bar a {
+    float: left;
+    width: 20%;
+    padding: 48px 0; 
+    color: indigo; 
+    font-size: 36px;
+}
+
+.resume:hover{
+    opacity: 0.3;
+    transition: 0.3s;
+}
+
+.instagram:hover{
+    opacity: 0.3;
+    transition: 0.3s;
+}
+
+.linkedin:hover{
+    opacity: 0.3;
+    transition: 0.3s;
+}
+
+.spacing{
+    line-height: 30%;
+}
+
+.round_picture{
+border-radius: 30%;
+z-index:+1;  
+position: absolute;
+top: 6.6%;
+right: 32%;
+width: 100px;
+height: 100px;
+display: block;
+}
+
