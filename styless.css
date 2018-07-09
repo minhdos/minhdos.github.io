@@ -41,6 +41,11 @@
     transition: 0.3s;
 }
 
+.photography:hover{
+    opacity: 0.3;
+    transition: 0.3s;
+}
+
 .spacing{
     line-height: 30%;
 }
